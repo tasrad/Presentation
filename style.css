@@ -1,9 +1,20 @@
 body {
     padding: auto 15px;
-    background-color: rgb(234, 245, 255);
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-image: url(growth-of-the-economy-with-coins-concept_23-2148525276.jpg);
+background-repeat: no-repeat;
+background-color: transparent;
+background-size: 100%;
 }
 h1{
     text-align: center;
     font-size: 35px;
+    
+}
+section{
+    text-align: left;
+    margin-left:  25px;
+}
+ul{
+    font-size: 20px;
 }
