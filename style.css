@@ -21,6 +21,9 @@ p{
 h3{
     text-align: center;
 }
+.calculations, .numbers_omez{
+    display: inline-block;
+}
 .numbers_data, .histogram{
     margin: auto 15px;
 }
@@ -38,6 +41,7 @@ h3{
 }
 footer{
     text-align: center;
+    margin-bottom: 0;
 }
 bottom{
     color: rgb(106, 106, 157);
@@ -49,6 +53,4 @@ bottom{
     text-align: center;
     display: inline-block;
     margin: 0 auto;
-
-
 }
