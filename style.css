@@ -30,3 +30,9 @@ h3{
 .info_sale, .histo_info{
     display: inline-block;
 }
+.plans_for_future, .factors{
+    background-color: rgba(240, 248, 255, 0.697);
+}
+.h3{
+    text-align: left;
+}
