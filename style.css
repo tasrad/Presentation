@@ -18,6 +18,12 @@ p{
     font-size: 22px;
     margin-left: 25px;
 }
-.numbers_data{
-    size: 10px;
+.numbers_data, .histogram{
+    margin: auto 15px;
+}
+.histogram{
+    padding-bottom: 35px;
+}
+.info_sale, .histo_info{
+    display: inline-block;
 }
