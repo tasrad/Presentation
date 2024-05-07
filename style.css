@@ -109,3 +109,10 @@ i{
     color: blue;
     font-weight: 700;
 }
+.e-list{
+    font-weight: 700;
+    text-align: center;
+    font-size: 25px;
+    padding: 15px;
+    color: blue;
+}
