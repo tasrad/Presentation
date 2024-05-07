@@ -99,3 +99,9 @@ td{
 .h2{
     text-align: center;
 }
+.sov_prescriber, .plast{
+    display: inline-block;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
