@@ -58,16 +58,18 @@ bottom{
     display: block;
     text-align: center;
     margin: 0 auto;
+    width: 70%;
+    padding: 20px;
 }
 table,th,td{
     border: 1px solid grey;
-    text-align:center;
+    text-align:left;
+    vertical-align: top;
   } 
   
   th,td{
      padding:10px;
   }
-  caption{
-    font-size:20px;
-    color:blue;
-  }
+td{
+    width: 500px;
+}
