@@ -161,7 +161,7 @@ i{
   h3, p{
     font-size: 30px;
   }
-  ul{
+  ul, ol{
     font-size: 30px;
   }
   .numbers_omez{
@@ -169,5 +169,12 @@ i{
   }
   .numbers_data, .histogram{
     width: 25em;
+  }
+  .table{
+    padding:20px;
+    text-align: center;
+  }
+  .plast_photo{
+    width: 300px;
   }
   }
